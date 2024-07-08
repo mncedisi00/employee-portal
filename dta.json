@@ -1,4 +1,12 @@
 {
-    "employees": []
-  }
-  
+  "employees": [
+    {
+      "id": "0986576547",
+      "name": "Mncedisi Mhlanga",
+      "email": "mncedisi.m2409@gmail.com",
+      "phone": "0625591450",
+      "image": "N/A",
+      "position": "Manager"
+    }
+  ]
+}
